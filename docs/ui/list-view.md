@@ -9,7 +9,7 @@ environment: angular
 
 # List View
 
-Using a `ListView` control inside Angular app requires some special attention due to the complexity of the NativeScript control like custom item template, bindings and so on. 
+Using a `ListView` control inside an Angular app requires some special attention due to the complexity of the NativeScript control, such as custom item templates, bindings and so on. 
 
 In this article we will cover the following topics:
 
